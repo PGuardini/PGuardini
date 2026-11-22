@@ -1,6 +1,6 @@
 ## Hi there
 
-### Who Am I?
+### About me
 Bachelor of Philosophy, data enthusiast and searching other ways to use data, language and information.
 
 ---
