@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+Bachelor of Philosophy, data enthusiast and searching other ways to use data, language and information.
+
+---
+
+**Stack**
+
+* **Main:** Python
+* **Also working with:** JavaScript
+* **Previously used:** PHP
+
+---
+
+**Connect**
+
+[LinkedIn](https://linkedin.com/pedroguardini)
+
+
 <!--
 **PGuardini/PGuardini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
