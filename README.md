@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there
 
+### Who Am I?
 Bachelor of Philosophy, data enthusiast and searching other ways to use data, language and information.
 
 ---
@@ -14,7 +15,7 @@ Bachelor of Philosophy, data enthusiast and searching other ways to use data, la
 
 **Connect**
 
-[LinkedIn](https://linkedin.com/pedroguardini)
+[LinkedIn](https://linkedin.com/in/pedroguardini)
 
 
 <!--
